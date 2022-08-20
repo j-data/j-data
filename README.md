@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on open-source projects to build my Data Engineering portfolio 
 - 🌱 I’m currently learning to train ML models and deploy pipelines using AWS ML stack
-- 👯 I’m looking to collaborate on Data Engineering/ Machine Learning projects
+- 👯 I’m looking to collaborate on Big Data Engineering/ Machine Learning projects
 - 🤔 I’m looking for help with entry-level Data Engineering placements that leverage cloud infrastructures
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-John_Akudike-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/johnakudike)
 - 😄 Pronouns: He/ Him
