@@ -11,8 +11,8 @@
 <img src="https://komarev.com/ghpvc/?username=j-data&style=flat-square&color=blue" alt=""/>
 </div>
 
-#### Hi there 👋
-</div>
+#### Hi there :wave:
+
 
 ---
 
