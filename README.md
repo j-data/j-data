@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning to train ML models and deploy pipelines using multi-cloud ML stacks
 - 👯 I’m looking to collaborate on Big Data Science/ Engineering/ Machine Learning projects
 - 🤔 I’d appreciate any help with entry-level Data Science/ Engineering placements that leverage cloud infrastructures
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-John_Akudike-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/johnakudike)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-John_Akudike-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/johnakudike)
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: Curiosity did not kill the :cat:
 
