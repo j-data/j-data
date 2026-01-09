@@ -20,7 +20,7 @@
 ##### :man_technologist: About Me :
 
 - 🔭 I’m John! 
-- 🌱 I’m currently building and deploy pipelines using multi-cloud tech/ ML stacks
+- 🌱 I’m currently building and deploying pipelines using multi-cloud tech/ ML stacks
 - 👯 I’m looking to collaborate on Big Data Science/ Engineering/ Machine Learning projects
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-John_Akudike-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/johnakudike)
 - 😄 Pronouns: He/ Him
